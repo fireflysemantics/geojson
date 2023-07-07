@@ -1,0 +1,21 @@
+{
+  "name": "@fireflysemantics/geojson",
+  "version": "1.0.0",
+  "description": "GeoJson Downloaded Files Source From Natural Earth.  See origin for more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["geojson", "json", "leaflet", "earth", "big data", "https://geojson-maps.ash.ms/", "https://github.com/AshKyd/geojson-regions"],
+  "author": "Ole Ersoy",
+  "license": "Public Domain",
+  "origin": {
+    "github": "https://github.com/AshKyd/geojson-regions",
+    "application domain": "https://geojson-maps.ash.ms/"
+  },
+  "notes": {
+    "low-resolution.geo.json": "Contains all countries at low resolution (110 meter) specification",
+    "medium-resolution.geo.json": "Contains all countries at low resolution (50 meter) specification",
+    "high-resolution.geo.json": "Contains all countries at low resolution (10 meter) specification"
+  }
+}
